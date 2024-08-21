@@ -25,7 +25,7 @@ function initializeCountdown(elementId, deadline) {
 }
 
 // Initialize countdowns with specific deadlines
-initializeCountdown('countdown1', new Date('2024-12-01T09:00:00').getTime()); 
+initializeCountdown('countdown1', new Date('2024-08-22T09:00:00').getTime()); 
 initializeCountdown('countdown2', new Date('2024-11-15T23:59:59').getTime()); 
 
 initializeCountdown('countdown3', new Date('2025-06-15T23:59:59').getTime()); 
